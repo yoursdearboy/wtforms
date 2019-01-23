@@ -53,12 +53,12 @@ msgstr "Значение должно содержать от %(min)d до %(max
 #: wtforms/validators.py:140
 #, python-format
 msgid "Number must be at least %(min)s."
-msgstr "Число должно быть больше %(min)s."
+msgstr "Число должно быть не менее %(min)s."
 
 #: wtforms/validators.py:142
 #, python-format
 msgid "Number must be at most %(max)s."
-msgstr "Число должно быть меньше %(max)s."
+msgstr "Число должно быть не более %(max)s."
 
 #: wtforms/validators.py:144
 #, python-format
